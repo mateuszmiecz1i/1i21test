@@ -1,3 +1,5 @@
 # 1i21test
 ## test GitHub
-Hejka
+Witam
+Nazywam się Mateusz Miecznikowski 
+i zmieniłem ten plik
